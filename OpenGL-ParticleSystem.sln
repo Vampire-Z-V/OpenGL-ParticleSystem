@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Waterfall", "Waterfall\Waterfall.vcxproj", "{DD6AC55F-9B26-418C-90B0-A341F1CBED32}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Firework", "Firework\Firework.vcxproj", "{3BD343D3-345F-4474-9D7C-985DA86E5EBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD6AC55F-9B26-418C-90B0-A341F1CBED32}.Debug|x64.ActiveCfg = Debug|x64
+		{DD6AC55F-9B26-418C-90B0-A341F1CBED32}.Debug|x64.Build.0 = Debug|x64
+		{DD6AC55F-9B26-418C-90B0-A341F1CBED32}.Release|x64.ActiveCfg = Release|x64
+		{DD6AC55F-9B26-418C-90B0-A341F1CBED32}.Release|x64.Build.0 = Release|x64
+		{3BD343D3-345F-4474-9D7C-985DA86E5EBE}.Debug|x64.ActiveCfg = Debug|x64
+		{3BD343D3-345F-4474-9D7C-985DA86E5EBE}.Debug|x64.Build.0 = Debug|x64
+		{3BD343D3-345F-4474-9D7C-985DA86E5EBE}.Release|x64.ActiveCfg = Release|x64
+		{3BD343D3-345F-4474-9D7C-985DA86E5EBE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C32AB78-7038-4B87-9086-D670B3B79046}
+	EndGlobalSection
+EndGlobal
